@@ -1293,7 +1293,7 @@ I don't use all error codes in my app (e.g verification, password reset...) but 
                     These metrics include private contributions, timezone Europe/Paris
                 </span>
                 <span>
-                    Last updated Thu, 08 Apr 2021 11:51:52 GMT with lowlighter/metrics@3.6.0
+                    Last updated Thu, 08 Apr 2021 11:52:07 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>

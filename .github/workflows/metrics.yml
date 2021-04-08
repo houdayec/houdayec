@@ -26,7 +26,7 @@ jobs:
           #plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_stackoverflow: yes
-          plugin_stackoverflow_limit: 1
+          plugin_stackoverflow_limit: 2
           plugin_stackoverflow_lines: 0
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_user: 6812501

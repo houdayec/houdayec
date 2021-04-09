@@ -28,4 +28,5 @@ jobs:
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 0
           plugin_stackoverflow_lines: 0
+          plugin_stackoverflow_sections: none
           plugin_stackoverflow_user: 6812501
